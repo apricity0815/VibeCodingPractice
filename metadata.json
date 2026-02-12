@@ -1,0 +1,7 @@
+{
+  "name": "MockupGen AI",
+  "description": "An on-demand merchandise mockup generator. Upload your logo and use AI to visualize it on various products and edit scenes with natural language prompts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
